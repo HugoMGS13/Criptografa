@@ -1,0 +1,1 @@
+Criptografa é um projeto universitário que criptografa e descriptografa mensagens simples usando sistema de criptografia RSA.
